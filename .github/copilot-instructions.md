@@ -5,7 +5,7 @@
 ### Completed Steps
 
 - [x] Project scaffolding with Vite + React + TypeScript
-- [x] TailwindCSS configuration with custom Jenkins theme
+- [x] TailwindCSS configuration with cm Jenkins theme
 - [x] Dark/Light mode implementation
 - [x] Complete component library (12 reusable components)
 - [x] React Router setup with 9 pages
